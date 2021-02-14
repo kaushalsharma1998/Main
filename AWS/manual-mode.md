@@ -12,21 +12,14 @@
    To create a VPC on AWS , after logging to AWS educate I have gone to the VPC section and navigated to Start VPC wizard under Your VPC.
    I have initialized the VPC with a single subnet (10.0.0.0/16).
    Attached below is screenshot of the  created VPC.
-   <img width="964" alt="Step 1 " src="https://github.com/kaushalsharma1998/Main/blob/main/AWS/Screenshots/Step1%20Choose%20an%20AMI.JPG">
+   <img width="964" alt="Step 1 " src="/Screenshots/Step1%20Choose%20an%20AMI.JPG">
 
 
 - Create an 2 EC2 instances.  Utilize an Linux AMI, use only free tier resources.
   An EC2 instance stands for Elastic Compute Cloud instance .It is a web service which provides with a compute server.
   Creating an EC2 instance is usually done in 6 major steps .
   1) Choose an AMI : have selected a free tier Linux Amazon Machine Image x84 64bit (AMI)
-  <img width="964" alt="Step 1" src="Screenshots/Step1%20Choose%20an%20AMI.JPG">
-  
-  
-  
-  
-  
-  
-  
+  <img width="964" alt="Step 1 " src="AWS/Screenshots/Step1%20Choose%20an%20AMI.JPG">
   2) Choose Instance type :I have chosen a t2.micro type instance type with 1 vCPU ang 1GB of RAM.
   <img width="964" alt="Step 1 " src="https://github.com/kaushalsharma1998/Main/blob/main/AWS/Screenshots/Step1%20Choose%20an%20AMI.JPG">
 
