@@ -19,7 +19,14 @@
   An EC2 instance stands for Elastic Compute Cloud instance .It is a web service which provides with a compute server.
   Creating an EC2 instance is usually done in 6 major steps .
   1) Choose an AMI : have selected a free tier Linux Amazon Machine Image x84 64bit (AMI)
-  <img width="964" alt="Step 1 " src="/Screenshots/Step1%20Choose%20an%20AMI.JPG">
+  <img width="964" alt="Step 1" src="Screenshots/Step1%20Choose%20an%20AMI.JPG">
+  
+  
+  
+  
+  
+  
+  
   2) Choose Instance type :I have chosen a t2.micro type instance type with 1 vCPU ang 1GB of RAM.
   <img width="964" alt="Step 1 " src="https://github.com/kaushalsharma1998/Main/blob/main/AWS/Screenshots/Step1%20Choose%20an%20AMI.JPG">
 
