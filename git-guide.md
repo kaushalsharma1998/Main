@@ -19,3 +19,5 @@
     Push :                      git push  --set-upstream origin git-guide-update
 
   - how to merge a branch with main / master :
+    Switched to main branch  using  : git checkout main
+    Merged git-guide-update using : git merge git-guide-update
