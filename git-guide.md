@@ -18,4 +18,4 @@
     Commit changes :            git commit -m "added new file to branch"
     Push :                      git push  --set-upstream origin git-guide-update
 
-  - how to merge a branch with main / master
+  - how to merge a branch with main / master :
