@@ -1,6 +1,6 @@
 # Project 2
 
-## branch-ing out
+## Branch-ing out
 
 -Created a branch in my  repository called `git-guide-update` </br>
 
