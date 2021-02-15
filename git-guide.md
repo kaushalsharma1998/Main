@@ -18,10 +18,9 @@
     Commit changes :            git commit -m "added new file to branch"
     Push :                      git push  --set-upstream origin git-guide-update
 
-<<<<<<< HEAD
-  - how to merge a branch with main / master
-=======
+  
   - how to merge a branch with main / master :
     Switched to main branch  using  : git checkout main
     Merged git-guide-update using : git merge git-guide-update
->>>>>>> git-guide-update
+    Resoved merge conflicts in Atom.
+
