@@ -2,25 +2,25 @@
 
 ## branch-ing out
 
--Create a branch in your repository called `git-guide-update`
+-Created a branch in my  repository called `git-guide-update` </br>
 
--Update your git guide using your project feedback (if any) and add the following:
+-Updated git guide.md and added the following: </br>
 
-- branch
-  - how to create a branch
-    a new branch is created using :  git checkout -b git-guide-update
-  - how to switch to a branch :        git checkout [branch name]
-    Here I switched back to main branch : git checkout main
+- Branch</br>
+  - How to create a branch</br>
+    A new branch is created using :  git checkout -b git-guide-update</br>
+  - how to switch to a branch :        git checkout [branch name] </br>
+    Here I switched back to main branch : git checkout main </br>
 
-  - how to make changes in a branch (what happens, do you still need commits?)
-    Switch to that branch :     git checkout git-guide-update
-    Make changes :              git add .
-    Commit changes :            git commit -m "added new file to branch"
-    Push :                      git push  --set-upstream origin git-guide-update
+  - How to make changes in a branch (what happens, do you still need commits?) </br>
+    Switch to that branch :     git checkout git-guide-update </br>
+    Make changes :              git add . </br>
+    Commit changes :            git commit -m "added new file to branch" </br>
+    Push :                      git push  --set-upstream origin git-guide-update </br>
 
   
-  - how to merge a branch with main / master :
-    Switched to main branch  using  : git checkout main
-    Merged git-guide-update using : git merge git-guide-update
+  - How to merge a branch with main / master : </br>
+    Switched to main branch  using  : git checkout main </br>
+    Merged git-guide-update using : git merge git-guide-update </br>
     Resoved merge conflicts in Atom.
 
